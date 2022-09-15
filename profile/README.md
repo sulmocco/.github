@@ -24,13 +24,30 @@
 
 ## :hammer_and_wrench: 기술 스택
 ### :boom: Frontend
-
+![react](https://user-images.githubusercontent.com/89123240/190444941-bd10470f-b36c-4349-936b-75d8746dc77b.png)
+![recoil](https://user-images.githubusercontent.com/89123240/190444924-415e2f68-8684-445a-a7dc-e9673b8376a2.png)
+![axios](https://user-images.githubusercontent.com/89123240/190444904-ede257b5-8353-40f1-9fb5-3ab991b2c0c6.png)
+![reactquery](https://user-images.githubusercontent.com/89123240/190444882-3072093e-b7dc-42ba-9a27-b7b71f9a8abf.png)
+![styledcomponent](https://user-images.githubusercontent.com/89123240/190447254-f571b504-6293-49cd-a15b-0020e7088276.png)
+![stomp](https://user-images.githubusercontent.com/89123240/190444635-60d9cbe6-ff7b-44d1-b727-e019747460ae.png)
+![sock](https://user-images.githubusercontent.com/89123240/190444669-543899e3-70d1-4a0f-a91f-5e0c4c7e6621.png)
+![openvidu](https://user-images.githubusercontent.com/89123240/190444865-4ef77100-a692-482b-9092-256c726253c4.png)
+![toastui](https://user-images.githubusercontent.com/89123240/190444851-a0a08243-1acc-4a3d-904d-18d9cdd223f2.png)
 ### :boom: Back-end
-
+![springboot](https://user-images.githubusercontent.com/89123240/190444793-a66ab960-fcfa-425b-a2cc-d034cf1b2d4a.png)
+![mysql](https://user-images.githubusercontent.com/89123240/190444624-50b53ffa-88a3-4a71-88b3-f51613f622f0.png)
+![redis](https://user-images.githubusercontent.com/89123240/190444683-570792ad-ca7f-4ded-bea3-7b354dc82dc1.png)
+![ngnix](https://user-images.githubusercontent.com/89123240/190444770-d3c39126-ca48-4f44-b318-2fafbae60102.png)
+![rds](https://user-images.githubusercontent.com/89123240/190444643-5583c570-f9e7-4bdc-85c1-ab35a59df43b.png)
 ### :boom: DevOps
-
+![cloudformation](https://user-images.githubusercontent.com/89123240/190444735-3ad8e819-411f-4782-bc1f-8cf887ece2f8.png)
+![ec2](https://user-images.githubusercontent.com/89123240/190444748-d3684def-5f65-4bba-b6bd-17196a276f9e.png)
+![s3](https://user-images.githubusercontent.com/89123240/190444612-7271c0f0-015e-48e0-b2a0-93aba96acfc6.png)
+![bibaton](https://user-images.githubusercontent.com/89123240/190444713-df513fab-d2c4-4212-97b9-5dffe4dcb5bb.png)
+![firebasehosting](https://user-images.githubusercontent.com/89123240/190444812-222d8800-75ac-4e44-ab8f-498c11f74f2d.png)
+![githubaction](https://user-images.githubusercontent.com/89123240/190444830-9f5465ac-c129-4b0b-800f-6e478d3e6c23.png)
 <br />
-
+<br />
 ## 🤝 Code Convention
 ### 커밋 메시지
 
@@ -46,6 +63,18 @@ type(타입) : title(제목)
 WIP : 완성 전에 커밋할 경우 제목 뒤에 붙임
 body(본문, 생략 가능)
 ```
+### 이름규칙
+> - 폴더명 : lowercase
+> - 페이지, 컴포넌트 : PascalCase
+> - 그 외 : camelCase
+### 변수규칙
+> - 기본 : const
+> - 그 외 : let
+### 기타
+> - 들여쓰기 공백 2글자
+> - styled component 사용시 index.jsx 내에서 선언하여 사용하지 않고 styles.jsx 파일을 따로 분리한뒤 import 하여 사용
+
+<br />
 
 ## 🧩 Architecture
 
@@ -56,88 +85,38 @@ body(본문, 생략 가능)
 
 
 ## 🗺 ER Diagram
-![image](https://user-images.githubusercontent.com/87135478/151312641-0f6a5210-d4d2-4aa3-a1dd-ca7d8fc10d82.png)
+
 
 <br />
 
 
 
 ## 📌 API 명세서
-- [\[API 명세서 바로가기\]](https://typical-guanaco-54b.notion.site/API-bda198d1807e4eff8de732ebe02f3134)
+<details>
+<summary>API 명세서</summary>
+<div markdown="1">
+</div>
+</details>
 
 
 <br />
 
-
-
-> 1. 변수 네이밍 규칙 : ```Camel Case```
-> 2. 한 줄의 글자 수 : ```최대 80자```
-> 3. 한 줄 주석 표기 : ```/*  */```
-> 4. 여러 줄 주석 표기 : 
-> ```java
->   /*-
->    *
->    *
->    */
-> ```
-> 5. 삼항연산자 표기 : 
-> ```
->   alpha = (BooleanExpression) ? beta
->                               : gamma
-> ```
-> 6. If문에서 &&, ||' 표기
-> ```
->   if((condition1 && condition2)
->     || (condition3 && condition4) 
->     || (condition5 && condition6) {
->     do something();
->   }
-> ```
 
 
 <br />
 
 ## 👣 런칭 성과
->  \* 런칭일자 : 2022년 01월 22일(토)  
->  \* 성과 집계일자 : 2022년 01월 27일(목) 15:00
-
-<br />
-
-### 2. 개발자 커뮤니티/포럼 홍보 성과 요약
-* Okky, 뽐뿌 개발자포럼을 통해 서비스 홍보를 진행하였음
-* 사용자, 세션수 등에서 인스타그램 광고를 통한 성과 지표보다 높은 성과를 얻었음
-![image](https://user-images.githubusercontent.com/87135478/150999046-b5c3e854-37fe-4dfa-b2c9-20cce48e975d.png)
-
+>  \* 런칭일자 : 2022년 09월 11일(일)  
+>  \* 성과 집계일자 : 2022년 09월 15일(목)
 
 <br />
 
 ### 3. 런칭 이후 누적 데이터 분석 (DataBase)
-* 가입 회원 수 : 141명
-* 작성된 생드백(게시글) 수 : 총 86개 
-* 터트린 생드백 수 : 36개 (전체 대비 41.8%)
-* 작성된 잽(댓글) 수 : 총 93개
-* 가장 많은 생드백이 작성된 고민 카테고리 Top3 : 기타(27개), 공부(13개), 진로고민(13개)
-* 기간동안 생드백이 맞은 횟수 : 총 6,995대 (1인 평균 49.6대)
-
 <br />
 
 ### 4. 런칭 이후 누적 데이터 분석 (Google Analytics)
-* 사용자 : 741명 (First Visit 기준)
-* Page View : 1만
-* 이벤트 수 : 1.5만
-* 모바일 / PC 비율 : 6.5 / 3.5
-* 사용자 재방문 : 12.6%
-
 <br />
 
-## 👍 꼼꼼한 TestCode 작성을 통한 코드 신뢰도 향상
-
-> \* 총 154개의 테스트 코드 작성  
-> \* 87%의 커버리지 달성
-
-<br />
-
-![image](https://user-images.githubusercontent.com/22443546/152502943-5a47de3f-e0d9-4ed5-b30b-c0432c827074.png)
 
 
 <br />
