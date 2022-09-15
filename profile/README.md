@@ -1,15 +1,15 @@
-## 👊 생드백(Thandbag) - BackEnd 
+## 👊 술모꼬
 ![thandbag_main_thumbnail](https://user-images.githubusercontent.com/87135478/150528634-b8623912-648a-49a9-9a0a-b980a5c45610.png)
 
 <br />
 
 ## 🗂 Summary
-### 항해99 4기, 실전 프로젝트 7조
-> \* 서비스명 : 생드백 (*Think + Sandbag = Thandbag!*)  
+### 항해99 X 동북 이노베이션, 실전 프로젝트 4조
+> \* 서비스명 : 술모꼬 (*Think + Sandbag = Thandbag!*)  
 > \* 서비스 설명 : 일상 생활속에서 받은 스트레스, 고민을 샌드백을 때리면서 재미있게 풀 수 있는 스트레스 해소 서비스  
     
-- [\[사이트 바로가기\]](https://thandbag.com)  **과금으로 인해 현재는 서버를 운영하지 않고 있습니다.**
-- [\[시연영상 바로가기\]](https://www.youtube.com/watch?v=TDr55gjFYGs)  
+- [\[사이트 바로가기\]](https://www.sulmoggo.live/)  **과금으로 인해 현재는 서버를 운영하지 않고 있습니다.**
+- [\[시연영상 바로가기\]](###)  
 
 <br />
 
