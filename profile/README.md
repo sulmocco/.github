@@ -1,41 +1,36 @@
-## 👊 술모꼬
-![thandbag_main_thumbnail](https://user-images.githubusercontent.com/87135478/150528634-b8623912-648a-49a9-9a0a-b980a5c45610.png)
-
-<br />
-
-## 🗂 Summary
-### 항해99 X 동북 이노베이션, 실전 프로젝트 4조
-> \* 서비스명 : 술모꼬 (*Think + Sandbag = Thandbag!*)  
-> \* 서비스 설명 : 일상 생활속에서 받은 스트레스, 고민을 샌드백을 때리면서 재미있게 풀 수 있는 스트레스 해소 서비스  
+![KakaoTalk_Photo_2022-09-15-23-54-01](https://user-images.githubusercontent.com/56210700/190436678-45237690-b3b5-4fa4-bd1a-f9b569cfc102.jpeg)
+# 🍻술모꼬
+항해99 X 동북 이노베이션, 실전 프로젝트 4조
+> \* 서비스명 : 술모꼬 (*술 + 모꼬지(모임의 순우리말) = 🍻술모꼬🍻*)  
+> 집에서도 손쉽게 술 모임을 가질수 있는 서비스 술모꼬입니다
     
-- [\[사이트 바로가기\]](https://www.sulmoggo.live/)  **과금으로 인해 현재는 서버를 운영하지 않고 있습니다.**
-- [\[시연영상 바로가기\]](###)  
+- [\[사이트 바로가기\]](https://www.sulmoggo.live/)
+- [\[시연영상 바로가기\]](https://youtu.be/cz1HbJZnBY0)
 
 <br />
 
 ## 👥 멤버
-- Back-end: [고성범](https://github.com/SeongBeomKo), [오규화(조장)](https://github.com/59-devv)
-- Front-end: [이준명](https://github.com/Leejunmyung), [전용태](https://github.com/yong313), [정상일](https://github.com/jsni94)
-- Design : 정서윤, 황지현
-- [\[Front-End Github\]](https://github.com/thandbag/thandbag_FE)
+- Back-end: [김태현](https://github.com/Tmoney2014), [백승한](https://github.com/BaikSeunghan)
+- Front-end: [김원영](https://github.com/102wy), [노희정](https://github.com/imhjnoh)
+- Design : 김해영
 
 <br />
 
 ## 🗓 프로젝트 기간
-- 2021년 12월 18일 ~ 2022년 01월 28일
+- 2022년 8월 5일 ~
 
 
 <br />
 
 
 ## ♟ Information Architecture
-![image](https://user-images.githubusercontent.com/87135478/150537317-d428e046-b7da-4f19-8176-351bd04c1b65.png)
+![architecture](https://user-images.githubusercontent.com/56210700/190443726-9aaf49b0-4c2d-4f62-bb03-516225e9bac5.png)
 
 <br />
 
 ## 🧩 Architecture
 
-![architecture](https://user-images.githubusercontent.com/87135478/151476552-4cae69e4-a62b-46d1-afc5-8bae92349223.png)
+![architecture](https://user-images.githubusercontent.com/56210700/190443726-9aaf49b0-4c2d-4f62-bb03-516225e9bac5.png)
 
 
 <br />
@@ -43,27 +38,6 @@
 
 ## 🗺 ER Diagram
 ![image](https://user-images.githubusercontent.com/87135478/151312641-0f6a5210-d4d2-4aa3-a1dd-ca7d8fc10d82.png)
-
-<br />
-
-### :hammer_and_wrench: 기술 스택
-#### :boom: Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux(actions, thunk, immer)-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-56347C?style=flat-square&logo=Axios&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/> <img src="https://img.shields.io/badge/OpenVidu-73BA25?style=flat-square&logo=OpenVidu&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SockJS-010101?style=flat-square&logo=SockJS&logoColor=white"/> <img src="https://img.shields.io/badge/StompJS-010101?style=flat-square&logo=StompJS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
-<img src="https://img.shields.io/badge/SockJS-010101?style=flat-square&logo=SockJS&logoColor=white"/> <img src="https://img.shields.io/badge/Stomp-010101?style=flat-square&logo=StompJS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
-
-#### :boom: Back-end
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenVidu-73BA25?style=flat-square&logo=OpenVidu&logoColor=white"/> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=AWS EC2&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/>
-#### :boom: DevOps
-<img src="https://img.shields.io/badge/AWS EC2(Ubuntu20.04)-262577?style=flat-square&logo=AWS EC2&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=AWS Amplify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=Zabbix&logoColor=white"/>
 
 <br />
 
@@ -88,7 +62,7 @@
 <br />
 
 ## 📌 API 명세서
-Swagger : http://43.201.23.57/swagger-ui.html
+- [\[API 명세서 바로가기\]](https://typical-guanaco-54b.notion.site/API-bda198d1807e4eff8de732ebe02f3134)
 
 
 <br />
@@ -123,10 +97,10 @@ Swagger : http://43.201.23.57/swagger-ui.html
 <br />
 
 ## 👀 유저 피드백  
->  \* 피드백 수집일자 : 2022년 9월 06일 ~ 2022년 9월 15일  
->  \* 피드백 수 : 총 16개  
-* 서비스 만족도 평균 점수 : #.##점 (5점)  
-* 스트레스 해소 만족도 점수 : #.##점 (5점)  
+>  \* 피드백 수집일자 : 2022년 1월 22일 ~ 2022년 1월 25일  
+>  \* 피드백 수 : 총 30개  
+* 서비스 만족도 평균 점수 : 4.23점 (5점)  
+* 스트레스 해소 만족도 점수 : 4.2점 (5점)  
 * 긍정적인 피드백 Top3  
     * 생드백을 때리면서 스트레스를 해소한다는 아이디어가 참신하고 좋았다.  
     * 생드백을 때릴 때, 생드백이 맞는 모션과 함께 타격감이 있어서 재미있었다.  
@@ -139,8 +113,8 @@ Swagger : http://43.201.23.57/swagger-ui.html
 <br />
 
 ## 👣 런칭 성과
->  \* 런칭일자 : 2022년 09월 06일(토)  
->  \* 성과 집계일자 : 2022년 09월 16일(목) 15:00
+>  \* 런칭일자 : 2022년 01월 22일(토)  
+>  \* 성과 집계일자 : 2022년 01월 27일(목) 15:00
 
 ### 1. 인스타그램 광고 진행 성과 요약
 * 3일간 인스타그램 광고 진행을 통해 약 2만명에게 도달하였으며 이 중, 182명이 사이트에 방문하였음  
@@ -169,12 +143,22 @@ Swagger : http://43.201.23.57/swagger-ui.html
 <br />
 
 ### 4. 런칭 이후 누적 데이터 분석 (Google Analytics)
-
 * 사용자 : 741명 (First Visit 기준)
 * Page View : 1만
 * 이벤트 수 : 1.5만
 * 모바일 / PC 비율 : 6.5 / 3.5
 * 사용자 재방문 : 12.6%
+
+<br />
+
+## 👍 꼼꼼한 TestCode 작성을 통한 코드 신뢰도 향상
+
+> \* 총 154개의 테스트 코드 작성  
+> \* 87%의 커버리지 달성
+
+<br />
+
+![image](https://user-images.githubusercontent.com/22443546/152502943-5a47de3f-e0d9-4ed5-b30b-c0432c827074.png)
 
 
 <br />
