@@ -85,7 +85,7 @@ body(본문, 생략 가능)
 
 
 ## 🗺 ER Diagram
-
+![image](https://user-images.githubusercontent.com/95524472/190455062-86733cb8-dc28-491c-a805-6750480f9bc6.png)
 
 <br />
 
@@ -95,30 +95,14 @@ body(본문, 생략 가능)
 <details>
 <summary>API 명세서</summary>
 <div markdown="1">
+    <img src="https://user-images.githubusercontent.com/95524472/190453831-f093b829-dfb0-4416-8318-71a50523eab3.png" />
+    <img src="https://user-images.githubusercontent.com/95524472/190453915-bc0a825b-4d26-483d-aa49-6cfdbf66aaef.png" />
+    <img src="https://user-images.githubusercontent.com/95524472/190454013-2e010e3b-e7e8-4aa1-9fa8-a76184b3e3fc.png" />
 </div>
 </details>
 
 
 <br />
-
-
-
-<br />
-
-## 👣 런칭 성과
->  \* 런칭일자 : 2022년 09월 11일(일)  
->  \* 성과 집계일자 : 2022년 09월 15일(목)
-
-<br />
-
-### 3. 런칭 이후 누적 데이터 분석 (DataBase)
-<br />
-
-### 4. 런칭 이후 누적 데이터 분석 (Google Analytics)
-<br />
-
-
-
 <br />
 
 
