@@ -84,13 +84,6 @@ body(본문, 생략 가능)
 <br />
 
 
-## 🗺 ER Diagram
-![image](https://user-images.githubusercontent.com/95524472/190455062-86733cb8-dc28-491c-a805-6750480f9bc6.png)
-
-<br />
-
-
-
 ## 📌 API 명세서
 <details>
 <summary>API 명세서</summary>
@@ -101,6 +94,11 @@ body(본문, 생략 가능)
 </div>
 </details>
 
+<br />
+
+
+## 🗺 ER Diagram
+![image](https://user-images.githubusercontent.com/95524472/190455062-86733cb8-dc28-491c-a805-6750480f9bc6.png)
 
 <br />
 <br />
